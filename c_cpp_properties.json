@@ -1,0 +1,28 @@
+{
+  "configurations": [
+      {
+          "name": "Win32",
+          "includePath": [
+              "C:/ProgramData/MATLAB/SupportPackages/R2021a/3P.instrset/mingw_w64.instrset/x86_64-w64-mingw32/include",
+              "D:/Software/MATLAB/extern/include",
+              "${workspaceRoot}"
+          ],
+          "defines": [
+              "_DEBUG",
+              "UNICODE",
+              "_UNICODE"
+          ],
+          "intelliSenseMode": "msvc-x64",
+          "browse": {
+              "path": [
+                "C:/ProgramData/MATLAB/SupportPackages/R2021a/3P.instrset/mingw_w64.instrset/x86_64-w64-mingw32/include",
+                "D:/Software/MATLAB/extern/include",
+                "${workspaceRoot}"
+              ],
+              "limitSymbolsToIncludedHeaders": true,
+              "databaseFilename": ""
+          }
+      }
+  ],
+  "version": 3
+}
